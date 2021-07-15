@@ -1,4 +1,4 @@
-# UI-UX-Prototype
+## UI-UX-Design
 
 ### Use AdobeXD apps to open "LogiKargo  Shipment Prototype.xd"
 
