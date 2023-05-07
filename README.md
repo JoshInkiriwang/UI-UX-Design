@@ -7,6 +7,7 @@
 So I made that prototype based on my experience about Shipment in Indonesia like "JNE, Leuwigajah, Tiki, etc."
 
 ## MyMovie - Movie Ticket Reservation 🎥🎫 :
-### Figma Community : https://www.figma.com/community/file/981195313309676788
-### Prototype Link  : https://www.figma.com/file/beLcLPHg5Qs5L1n3mgvN1F/MyMovie---Movie-Ticket-Reservation-(Community)?node-id=0%3A1 
+https://www.figma.com/file/2dv65zkK1fswPjhiXWgjxx/MyMovie---Movie-Ticket-Reservation?type=design&t=UrNxXuyfaPb5fk7r-1
+
+## MyMovie - Movie Ticket Reservation 🎥🎫 :
 
